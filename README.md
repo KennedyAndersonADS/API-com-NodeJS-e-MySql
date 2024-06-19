@@ -1,4 +1,3 @@
-```markdown
 # API de Atendimento Hospitalar
 
 Esta API de Atendimento Hospitalar permite gerenciar atendimentos, médicos e pacientes em um sistema hospitalar. A API fornece endpoints para criar, ler, atualizar e excluir registros de atendimentos, médicos e pacientes.
@@ -95,4 +94,3 @@ Esta API de Atendimento Hospitalar permite gerenciar atendimentos, médicos e pa
 - **URL:** `/paciente/:id`
 - **Método:** `DELETE`
 - **Descrição:** Deleta um paciente específico.
-```
